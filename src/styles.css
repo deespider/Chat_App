@@ -17,7 +17,7 @@ body{
 
 #change-name{
 	text-align: right;
-	color: #0fabbc;
+	color: royalblue;
 	font-size: 10px;
 	cursor: pointer;
 }
@@ -46,7 +46,7 @@ input:focus{
 }
 
 #messages > div {
-	border-radius: 10px;
+	border-radius: 10px ;
 	background-color: #efefef;
 	margin: 10px 0px 10px 0px;
 	padding: 10px;
@@ -69,27 +69,27 @@ button{
 }
 
 .orange-button{
-	background-color: #ffbd69;
-	box-shadow: 0 4px #d19c57;
+	background-color: mediumblue;
+	box-shadow: 0 4px darkblue;
 }
 
 .orange-button:hover{
-	box-shadow: 0 2px #d19c57;
+	box-shadow: 0 2px seagreen;
 }
 
 .orange-button:active{
-	box-shadow: 0 0px #d19c57;
+	box-shadow: 0 0px blue;
 }
 
 .purple-button{
-	background-color: #aa96da;
-	box-shadow: 0 4px #7765a0;
+	background-color: orangered;
+	box-shadow: 0 4px mediumvioletred;
 }
 
 .purple-button:hover{
-	box-shadow: 0 2px #7765a0;
+	box-shadow: 0 2px red;
 }
 
 .purple-button:active{
-	box-shadow: 0 0px #7765a0;
+	box-shadow: 0 0px purple;
 }
